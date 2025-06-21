@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* because we use the "rem" unit */
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Roboto", "Arial", "sans-serif";
+}
